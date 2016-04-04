@@ -12,6 +12,22 @@
   </component>
   <component name="ProjectRootManager" version="2" />
   <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://github.com/arionlav/the_game/branches/alexander_test" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://github.com/arionlav/the_game/branches/alexander_lyakh" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
 </project>
